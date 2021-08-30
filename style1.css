@@ -18,6 +18,7 @@ header{
    font-weight: lighter;
    margin-bottom: 10px;
    font-family: 'Indie Flower', cursive;
+   color: hotpink;
  }
  .intro{
   background: url(img/img/firstview.jpg) no-repeat right/500px 60vw;
@@ -85,8 +86,7 @@ header{
   text-align: center;
   padding-bottom: 20px;
 }
-.h2{
-  display: inline;
+.about_title{
   text-align: center;
   padding-bottom: 30px;
 }
